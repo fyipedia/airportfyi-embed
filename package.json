@@ -1,0 +1,43 @@
+{
+  "name": "airportfyi-embed",
+  "version": "1.0.0",
+  "description": "Embed AirportFYI widgets — airport cards, glossary terms, search, comparisons. 71,631 airports. Zero dependencies, Shadow DOM, 4 themes.",
+  "main": "dist/embed.min.js",
+  "module": "dist/embed.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "airport",
+    "airports",
+    "IATA",
+    "ICAO",
+    "aviation",
+    "runway",
+    "flight",
+    "embed",
+    "widget",
+    "airportfyi",
+    "airportfyi.com",
+    "shadow-dom",
+    "zero-dependencies",
+    "fyipedia",
+    "transportfyi"
+  ],
+  "homepage": "https://widget.airportfyi.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fyipedia/airportfyi-embed"
+  },
+  "bugs": {
+    "url": "https://github.com/fyipedia/airportfyi-embed/issues"
+  },
+  "license": "MIT",
+  "author": "FYIPedia <dev@fyipedia.com>",
+  "publishConfig": {
+    "access": "public"
+  }
+}
