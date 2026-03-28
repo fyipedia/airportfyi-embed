@@ -1,6 +1,6 @@
 {
   "name": "airportfyi-embed",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Embed AirportFYI widgets — airport cards, glossary terms, search, comparisons. 71,631 airports. Zero dependencies, Shadow DOM, 4 themes.",
   "main": "dist/embed.min.js",
   "module": "dist/embed.esm.js",
