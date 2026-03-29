@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# AirportFYI Embed Widget
+# Main site: https://airportfyi.com
+# Widget docs: https://widget.airportfyi.com
+# npm: https://www.npmjs.com/package/airportfyi-embed
